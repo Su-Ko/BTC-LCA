@@ -12,9 +12,9 @@ These are needed to run the scripts contained in this repository, for example if
 
 # The repository includes
 
-BTC_Att_LCA.ipynb and BTC_Consequential_LCA.ipynb Python script to reproduce results of the LCA using the brightway2 LCA software. Imports the inventory in, performs LCA calculations and exports LCIA results, runs comparative Monte Carlo for the global warming impact category and exports results.
+BTC_Att_LCA.ipynb and BTC_Consequential_LCA.ipynb  are python scripts to reproduce results of the LCA using the brightway2 LCA software. Import the inventory in, perform LCA calculations and exports LCIA results, run comparative Monte Carlo for the global warming impact category and exports results.
 
-lci_to_bw2.py A little python script to import inventory tables in .csv directly into brightway2.
+lci_to_bw2.py is a little python script to import inventory tables in .csv directly into brightway2.
 
 Please get in touch if you find any mistake or problem in running these scripts.
 
